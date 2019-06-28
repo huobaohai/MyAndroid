@@ -1,0 +1,145 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:2:1-56:12
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:2:1-56:12
+	package
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:5:5-32
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:4:5-29
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:7:5-42:19
+	android:label
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:10:9-41
+	android:icon
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:9:9-38
+	android:theme
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:11:9-56
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:8:9-44
+activity#com.netease.qa.emmagee.activity.MainPageActivity
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:16:13-49
+	android:launchMode
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:15:13-48
+	android:configChanges
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:14:13-63
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:13:13-54
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:18:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:20:17-77
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:20:27-74
+activity#com.netease.qa.emmagee.activity.SettingsActivity
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:23:9-27:50
+	android:screenOrientation
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:26:13-49
+	android:launchMode
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:25:13-48
+	android:theme
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:27:13-47
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:24:13-54
+activity#com.netease.qa.emmagee.activity.AboutActivity
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:28:9-30:52
+	android:screenOrientation
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:29:13-51
+activity#com.netease.qa.emmagee.activity.MailSettingsActivity
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:31:9-33:52
+	android:screenOrientation
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:33:13-49
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:32:13-58
+activity#com.netease.qa.emmagee.activity.TestListActivity
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:34:9-36:52
+	android:screenOrientation
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:36:13-49
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:35:13-54
+activity#com.netease.qa.emmagee.activity.TestReportActivity
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:37:9-39:52
+	android:screenOrientation
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:39:13-49
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:38:13-56
+service#com.netease.qa.emmagee.service.EmmageeService
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:41:9-81
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:41:18-78
+permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:44:5-79
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:44:17-76
+permission#android.permission.READ_LOGS
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:45:5-63
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:45:17-60
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:47:5-78
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:47:22-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:48:5-81
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:48:22-78
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:49:5-76
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:49:22-73
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:50:5-76
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:50:22-73
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:51:5-68
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:51:22-65
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:52:5-67
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:52:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:53:5-79
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:53:22-76
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:54:5-68
+	android:name
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml:54:22-65
+uses-sdk
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\hbh\AndroidStudioProjects\AAPerformanceTest\MyEmmagee\app\src\main\AndroidManifest.xml
